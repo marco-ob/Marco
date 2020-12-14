@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\CompraFacil\CapaEntidades\bin\Debug\Entidades.dll
+C:\Users\ACER\source\repos\CompraFacil\CapaEntidades\bin\Debug\Entidades.pdb
+C:\Users\ACER\source\repos\CompraFacil\CapaEntidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CompraFacil\CapaEntidades\obj\Debug\Entidades.dll
+C:\Users\ACER\source\repos\CompraFacil\CapaEntidades\obj\Debug\Entidades.pdb
+C:\Users\user\Videos\CompraFacil\CapaEntidades\bin\Debug\Entidades.dll
+C:\Users\user\Videos\CompraFacil\CapaEntidades\bin\Debug\Entidades.pdb
+C:\Users\user\Videos\CompraFacil\CapaEntidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\user\Videos\CompraFacil\CapaEntidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Videos\CompraFacil\CapaEntidades\obj\Debug\Entidades.dll
+C:\Users\user\Videos\CompraFacil\CapaEntidades\obj\Debug\Entidades.pdb
+C:\Users\ACER\source\repos\CompraFacil\CapaEntidades\obj\Debug\Entidades.csprojAssemblyReference.cache
